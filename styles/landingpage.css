@@ -163,7 +163,7 @@
 }
 
 .fact-description{
-    width: 540px;
+    font-size: 1rem;
     margin-bottom: 30px;
     color: #727272;
     
@@ -183,8 +183,25 @@
   
 }
 
+.section-title-2nd{
+    text-align: center;
+}
+
+.fact-description{
+    text-align: center;
+}
+
 
 /* sponsor related styles*/
+
+.sponsor-title{
+    font-size: 2.5rem;
+    margin-top: 100px;
+}
+
+.sponsors-description{
+    color: #727272;
+}
 
 .sponsor-info{
     max-width: 540px;
@@ -200,7 +217,6 @@
 .sponsor-company img{
     filter: grayscale(100%);
 }
-
 
 
 
